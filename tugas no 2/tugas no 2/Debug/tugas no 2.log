@@ -1,0 +1,6 @@
+﻿  tugas no 2.cpp
+e:\kuliah\algoritma structur data prak\tugas no 2\tugas no 2\tugas no 2.cpp(15): warning C4091: 'typedef ': ignored on left of 'bilangankompleks' when no variable is declared
+e:\kuliah\algoritma structur data prak\tugas no 2\tugas no 2\tugas no 2.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\kuliah\algoritma structur data prak\tugas no 2\tugas no 2\tugas no 2.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  tugas no 2.vcxproj -> E:\KULIAH\ALGORITMA STRUCTUR DATA PRAK\tugas no 2\Debug\tugas no 2.exe
+  tugas no 2.vcxproj -> E:\KULIAH\ALGORITMA STRUCTUR DATA PRAK\tugas no 2\Debug\tugas no 2.pdb (Full PDB)
